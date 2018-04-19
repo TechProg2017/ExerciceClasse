@@ -7,16 +7,22 @@ std::map<char, int> alphabet;
 
 void MaillyLegareAlexandre1();
 void MaillyLegareAlexandre2();
+void MaillyLegareAlexandre3();
 void MathieuFournier1();
 void JimmyGagnonVezina1();
 void LapierreKimberly1();
 void PatrickRenaud1();
 void PatrickRenaud2();
 void PatrickRenaud3();
+void MathieuFournier1();
+void LapierreKimberly1();
+
+
 
 void IvannGouletDoyon1()
 {
-	std::cout << "Ivann Goulet Doyon 1" << std::endl;
+	cout << "Ivann Goulet Doyon 1" << std::endl;
+
 }
 
 int main() {
@@ -37,6 +43,7 @@ int main() {
 	MathieuFournier1();
 	MaillyLegareAlexandre1();
 	MaillyLegareAlexandre2();
+	MaillyLegareAlexandre3();
 	IvannGouletDoyon1();
 	JimmyGagnonVezina1();
 	LapierreKimberly1();
@@ -77,9 +84,17 @@ void MaillyLegareAlexandre1()
 
 void MaillyLegareAlexandre2()
 {
-	std::cout << "Mailly Legare " << std::endl;
+
+	std::cout << "Mailly Legare ";
 }
 void JimmyGagnonVezina1()
 {
 	std::cout << "JimmyGagnonVezina" << std::endl;
+
+}
+
+void MaillyLegareAlexandre3()
+{
+	std::cout << "= " << alphabet['A'] << alphabet['l'] << alphabet['e'] << alphabet['x'] << alphabet['a'] << alphabet['n'] << alphabet['d'] << alphabet['r'] << alphabet['e'] << alphabet['M'] << alphabet['a'] << alphabet['i'] << alphabet['l'] << alphabet['l'] << alphabet['y'] << alphabet['L'] << alphabet['e'] << alphabet['g'] << alphabet['a'] << alphabet['r'] << alphabet['e'] << std::endl;
+
 }
