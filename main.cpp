@@ -8,8 +8,12 @@ std::map<char, int> alphabet;
 void MathieuFournier1();
 void MaillyLegareAlexandre1();
 
-int main() 
+void IvannGouletDoyon1()
 {
+	cout << "Ivann Goulet Doyon 1" << endl;
+}
+
+int main() {
     // fill up the map with an association letter -> number 
     // a = 1, b = 2, c = 3, etc.
     alphabet = std::map<char, int>();
@@ -21,6 +25,7 @@ int main()
     // add your functions under here.
 	MathieuFournier1();
 	MaillyLegareAlexandre1();
+	IvannGouletDoyon1();
 
     // do not add anything after this line.
     system("pause");
