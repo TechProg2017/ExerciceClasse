@@ -10,9 +10,11 @@ void MaillyLegareAlexandre2();
 void MathieuFournier1();
 void JimmyGagnonVezina1();
 void LapierreKimberly1();
+void LapierreKimberly2();
 void PatrickRenaud1();
 void PatrickRenaud2();
 void PatrickRenaud3();
+
 
 void IvannGouletDoyon1()
 {
@@ -82,4 +84,9 @@ void MaillyLegareAlexandre2()
 void JimmyGagnonVezina1()
 {
 	std::cout << "JimmyGagnonVezina" << std::endl;
+}
+
+void LapierreKimberly2() 
+{
+	std::cout << "=" << alphabet['k'] << alphabet['i'] << alphabet['m'] << alphabet['b'] << alphabet['e'] << alphabet['r'] << alphabet['l'] << alphabet['y'] << alphabet['l'] << alphabet['a'] << alphabet['p'] << alphabet['i'] << alphabet['e'] << alphabet['r'] << alphabet['r'] << alphabet['e'] std::endl;
 }
