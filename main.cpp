@@ -27,6 +27,19 @@ int main() {
 	MaillyLegareAlexandre1();
 	IvannGouletDoyon1();
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	LapierreKimberly1();
+
     // do not add anything after this line.
     system("pause");
     return 0;
@@ -35,6 +48,10 @@ int main() {
 void MathieuFournier1()
 {
 	cout << "MathieuFournier" << std::endl;
+}
+void LapierreKimberly1()
+{
+	std::cout << "Kimberly " << std::endl;
 }
 void MaillyLegareAlexandre1()
 {
