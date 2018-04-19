@@ -28,6 +28,7 @@ int main() {
 	// add your functions under here.
 	MathieuFournier1();
 	MathieuFournier2();
+	MathieuFournier3();
 	MaillyLegareAlexandre1();
 	IvannGouletDoyon1();
 	LapierreKimberly1();
