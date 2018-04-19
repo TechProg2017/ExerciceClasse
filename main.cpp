@@ -14,8 +14,13 @@ int main() {
     }
 
     // add your functions under here.
-
+	PatrickRenaud1();
     // do not add anything after this line.
     system("pause");
     return 0;
+}
+
+PatrickRenaud1()
+{
+	std::cout << "Patrick Renaud" << std::endl;
 }
