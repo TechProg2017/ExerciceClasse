@@ -41,7 +41,7 @@ int main() {
 	MaillyLegareAlexandre3();
 	IvannGouletDoyon1();
 	IvannGouletDoyon2();
-	IvannGouletDoyon3;
+	IvannGouletDoyon3();
 	JimmyGagnonVezina1();
 	JimmyGagnonVezina2();
 	LapierreKimberly1();
