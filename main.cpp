@@ -3,41 +3,9 @@
 using std::cout;
 
 int main() {
-	// add your functions under here.
+    // add your functions under here.
 
-	// do not add anything after this line.
-	system("pause");
-	return 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-void RaphaelMorin1() {
-	cout << "RaphaelMorin";
+    // do not add anything after this line.
+    system("pause");
+    return 0;
 }
