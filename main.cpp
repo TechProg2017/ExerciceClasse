@@ -5,6 +5,11 @@ using std::cout;
 
 std::map<char, int> alphabet;
 
+void IvannGouletDoyon1()
+{
+	cout << "Ivann Goulet Doyon 1" << endl;
+}
+
 int main() {
     // fill up the map with an association letter -> number 
     // a = 1, b = 2, c = 3, etc.
@@ -13,7 +18,7 @@ int main() {
         alphabet[char(i + 96)] = i;
     }
 
-    // add your functions under here.
+	IvannGouletDoyon1();
 
     // do not add anything after this line.
     system("pause");
