@@ -5,6 +5,8 @@ using std::cout;
 
 std::map<char, int> alphabet;
 
+void CharlesCooke1();
+
 int main() {
     // fill up the map with an association letter -> number 
     // a = 1, b = 2, c = 3, etc.
