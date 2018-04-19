@@ -15,7 +15,14 @@ int main() {
 
     // add your functions under here.
 
+	LapierreKimberly1();
+
     // do not add anything after this line.
     system("pause");
     return 0;
+}
+
+void LapierreKimberly1()
+{
+	std::cout << "Kimberly " << std::endl;
 }
