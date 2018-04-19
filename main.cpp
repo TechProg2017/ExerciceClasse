@@ -20,7 +20,7 @@ int main() {
     return 0;
 }
 
-PatrickRenaud1()
+void PatrickRenaud1()
 {
 	std::cout << "Patrick Renaud" << std::endl;
 }
