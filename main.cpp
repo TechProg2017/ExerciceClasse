@@ -19,7 +19,7 @@ int main()
     // add your functions under here.
 
 	PatrickRenaud1();
-
+	PatrickRenaud2();
 	MaillyLegareAlexandre1();
 
     // do not add anything after this line.
@@ -31,6 +31,11 @@ int main()
 void PatrickRenaud1()
 {
 	std::cout << "Patrick Renaud" << std::endl;
+}
+void PatrickRenaud2()
+{
+	std::cout << " Patrick Renaud" << std::endl;
+}
 
 void MaillyLegareAlexandre1()
 {
