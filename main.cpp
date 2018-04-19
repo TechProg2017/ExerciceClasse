@@ -15,7 +15,16 @@ int main() {
 
     // add your functions under here.
 
+
+
+	CharlesCooke1();
     // do not add anything after this line.
     system("pause");
     return 0;
 }
+
+void CharlesCooke1()
+{
+	std::cout << "Charles Cooke"; 
+}
+
