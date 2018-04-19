@@ -9,6 +9,7 @@ void MaillyLegareAlexandre1();
 void MaillyLegareAlexandre2();
 void MathieuFournier1();
 void JimmyGagnonVezina1();
+void JimmyGagnonVezina2();
 void LapierreKimberly1();
 void PatrickRenaud1();
 void PatrickRenaud2();
@@ -39,6 +40,7 @@ int main() {
 	MaillyLegareAlexandre2();
 	IvannGouletDoyon1();
 	JimmyGagnonVezina1();
+	JimmyGagnonVezina2();
 	LapierreKimberly1();
 
     // do not add anything after this line.
@@ -81,5 +83,9 @@ void MaillyLegareAlexandre2()
 }
 void JimmyGagnonVezina1()
 {
-	std::cout << "JimmyGagnonVezina" << std::endl;
+	std::cout << "Jimmy";
+}
+void JimmyGagnonVezina2()
+{
+	std::cout << "GagnonVezina" << std::endl;
 }
