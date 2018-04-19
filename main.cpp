@@ -20,6 +20,7 @@ int main()
 
 	PatrickRenaud1();
 	PatrickRenaud2();
+	PatrickRenaud3();
 	MaillyLegareAlexandre1();
 
     // do not add anything after this line.
@@ -35,6 +36,10 @@ void PatrickRenaud1()
 void PatrickRenaud2()
 {
 	std::cout << " Patrick Renaud" << std::endl;
+}
+void PatrickRenaud3()
+{
+	std::cout << "=" << alphabet['p'] << alphabet['a'] << alphabet['t'] << alphabet['r'] << alphabet['i'] << alphabet['c'] << alphabet['k'] << alphabet['r'] << alphabet['e'] << alphabet['n'] << alphabet['a'] << alphabet['u'] << alphabet['d'] << std::endl;
 }
 
 void MaillyLegareAlexandre1()
