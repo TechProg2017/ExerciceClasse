@@ -18,8 +18,6 @@ void LapierreKimberly1();
 void PatrickRenaud1();
 void PatrickRenaud2();
 void PatrickRenaud3();
-
-<<<<<<< HEAD
 void IvannGouletDoyon1();
 void IvannGouletDoyon2();
 
@@ -85,7 +83,6 @@ void LapierreKimberly1()
 {
 	std::cout << "Kimberly " << std::endl;
 }
-
 void MaillyLegareAlexandre1()
 { 
 	std::cout << "Alexandre ";
