@@ -8,10 +8,9 @@ std::map<char, int> alphabet;
 void MaillyLegareAlexandre1(),void MaillyLegareAlexandre2();
 void MathieuFournier1();
 
-void IvannGouletDoyon1()
-{
-	cout << "Ivann Goulet Doyon 1" << endl;
-}
+void IvannGouletDoyon1();
+void IvannGouletDoyon2();
+
 
 int main() {
     // fill up the map with an association letter -> number 
@@ -32,6 +31,7 @@ int main() {
 	MaillyLegareAlexandre1();
 	MaillyLegareAlexandre2();
 	IvannGouletDoyon1();
+	IvannGouletDoyon2();
 
 	
 	
@@ -52,7 +52,14 @@ int main() {
 }
 
 
-
+void IvannGouletDoyon1()
+{
+	cout << "Ivann Goulet Doyon 1" << std::endl;
+}
+void IvannGouletDoyon2()
+{
+	cout << " Ivann Goulet Doyon 1" << std::endl;
+}
 void PatrickRenaud1()
 {
 	std::cout << "Patrick Renaud" << std::endl;
