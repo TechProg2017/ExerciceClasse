@@ -6,11 +6,13 @@ using std::cout;
 std::map<char, int> alphabet;
 
 void MathieuFournier1();
+void MathieuFournier2();
 void MaillyLegareAlexandre1();
+void LapierreKimberly1();
 
 void IvannGouletDoyon1()
 {
-	cout << "Ivann Goulet Doyon 1" << endl;
+	cout << "Ivann Goulet Doyon 1" << std::endl;
 }
 
 int main() {
@@ -24,20 +26,9 @@ int main() {
 
     // add your functions under here.
 	MathieuFournier1();
+	MathieuFournier2();
 	MaillyLegareAlexandre1();
 	IvannGouletDoyon1();
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	LapierreKimberly1();
 
     // do not add anything after this line.
@@ -48,6 +39,10 @@ int main() {
 void MathieuFournier1()
 {
 	cout << "MathieuFournier" << std::endl;
+}
+void MathieuFournier2()
+{
+	cout << " MathieuFournier" << std::endl;
 }
 void LapierreKimberly1()
 {
