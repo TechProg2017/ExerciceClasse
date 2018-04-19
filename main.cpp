@@ -13,14 +13,18 @@ void LapierreKimberly1();
 void IvannGouletDoyon1();
 void MaillyLegareAlexandre1();
 void MaillyLegareAlexandre2();
+void MaillyLegareAlexandre3();
 void MathieuFournier1();
 void JimmyGagnonVezina1();
+void JimmyGagnonVezina2();
 void LapierreKimberly1();
 void PatrickRenaud1();
 void PatrickRenaud2();
 void PatrickRenaud3();
 void IvannGouletDoyon1();
 void IvannGouletDoyon2();
+void MathieuFournier1();
+void LapierreKimberly1();
 
 int main() {
 	// fill up the map with an association letter -> number 
@@ -39,9 +43,11 @@ int main() {
 	MathieuFournier3();
 	MaillyLegareAlexandre1();
 	MaillyLegareAlexandre2();
+	MaillyLegareAlexandre3();
 	IvannGouletDoyon1();
 	IvannGouletDoyon2();
 	JimmyGagnonVezina1();
+	JimmyGagnonVezina2();
 	LapierreKimberly1();
 
 	// do not add anything after this line.
@@ -93,9 +99,19 @@ void MaillyLegareAlexandre1()
 
 void MaillyLegareAlexandre2()
 {
-	std::cout << "Mailly Legare " << std::endl;
+
+	std::cout << "Mailly Legare ";
 }
 void JimmyGagnonVezina1()
 {
-	std::cout << "JimmyGagnonVezina" << std::endl;
+	std::cout << "Jimmy";
+}
+
+void MaillyLegareAlexandre3()
+{
+	std::cout << "= " << alphabet['A'] << alphabet['l'] << alphabet['e'] << alphabet['x'] << alphabet['a'] << alphabet['n'] << alphabet['d'] << alphabet['r'] << alphabet['e'] << alphabet['M'] << alphabet['a'] << alphabet['i'] << alphabet['l'] << alphabet['l'] << alphabet['y'] << alphabet['L'] << alphabet['e'] << alphabet['g'] << alphabet['a'] << alphabet['r'] << alphabet['e'] << std::endl;
+}
+void JimmyGagnonVezina2()
+{
+	std::cout << "GagnonVezina" << std::endl;
 }
