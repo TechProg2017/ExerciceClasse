@@ -5,12 +5,18 @@ using std::cout;
 
 std::map<char, int> alphabet;
 
-void MaillyLegareAlexandre1(),void MaillyLegareAlexandre2();
+void MaillyLegareAlexandre1();
+void MaillyLegareAlexandre2();
 void MathieuFournier1();
+void JimmyGagnonVezina1();
+void LapierreKimberly1();
+void PatrickRenaud1();
+void PatrickRenaud2();
+void PatrickRenaud3();
 
 void IvannGouletDoyon1()
 {
-	cout << "Ivann Goulet Doyon 1" << endl;
+	std::cout << "Ivann Goulet Doyon 1" << std::endl;
 }
 
 int main() {
@@ -32,18 +38,7 @@ int main() {
 	MaillyLegareAlexandre1();
 	MaillyLegareAlexandre2();
 	IvannGouletDoyon1();
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	JimmyGagnonVezina1();
 	LapierreKimberly1();
 
     // do not add anything after this line.
@@ -76,12 +71,15 @@ void LapierreKimberly1()
 }
 
 void MaillyLegareAlexandre1()
-{
-	std::cout << "Alexandre" << std::endl;
+{ 
 	std::cout << "Alexandre ";
 }
 
 void MaillyLegareAlexandre2()
 {
 	std::cout << "Mailly Legare " << std::endl;
+}
+void JimmyGagnonVezina1()
+{
+	std::cout << "JimmyGagnonVezina" << std::endl;
 }
