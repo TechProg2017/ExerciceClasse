@@ -21,6 +21,7 @@ void PatrickRenaud2();
 void PatrickRenaud3();
 void IvannGouletDoyon1();
 void IvannGouletDoyon2();
+void IvannGouletDoyon3();
 
 int main() {
 	// fill up the map with an association letter -> number 
@@ -41,6 +42,7 @@ int main() {
 	MaillyLegareAlexandre2();
 	IvannGouletDoyon1();
 	IvannGouletDoyon2();
+	IvannGouletDoyon3;
 	JimmyGagnonVezina1();
 	LapierreKimberly1();
 
@@ -57,6 +59,10 @@ void IvannGouletDoyon1()
 void IvannGouletDoyon2()
 {
 	cout << " Ivann Goulet Doyon 1" << std::endl;
+}
+void IvannGouletDoyon3()
+{
+	std::cout << "=" << alphabet['I'] << alphabet['v'] << alphabet['a'] << alphabet['n'] << alphabet['n'] << alphabet[' '] << alphabet['G'] << alphabet['o'] << alphabet['u'] << alphabet['l'] << alphabet['e'] << alphabet['t'] << alphabet[' '] << alphabet['D'] << alphabet['o'] << alphabet['y'] << alphabet['o'] << alphabet['n'] << std::endl;
 }
 void PatrickRenaud1()
 {
